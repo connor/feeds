@@ -2,6 +2,10 @@
 
 Note that the Potluck APIs are changing often and that this will probably break when they do.
 
+![](http://f.cl.ly/items/0Q1S412K322C2Q2P0x3w/Screen%20Shot%202013-08-27%20at%2012.34.15%20PM.png)
+
+---
+
 ![Example Screenshot](Assets/Screenshot.png)
 
 Overview
