@@ -1,3 +1,7 @@
+## This is a fork of Feeds that adds Potluck support
+
+Note that the Potluck APIs are changing often and that this will probably break when they do.
+
 ![Example Screenshot](Assets/Screenshot.png)
 
 Overview

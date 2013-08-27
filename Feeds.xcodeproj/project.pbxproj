@@ -159,6 +159,13 @@
 		01F616F313AEAA2700EBB24E /* PreferencesController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 01F616F113AEAA2600EBB24E /* PreferencesController.xib */; };
 		01F64A2B14C2318B00AAABD7 /* BeanstalkAccount.m in Sources */ = {isa = PBXBuildFile; fileRef = 01F64A2A14C2318B00AAABD7 /* BeanstalkAccount.m */; };
 		01F7120714F9551700A32AB9 /* NSDate+TimeAgo.m in Sources */ = {isa = PBXBuildFile; fileRef = 01F7120614F9498000A32AB9 /* NSDate+TimeAgo.m */; };
+		B3BCE98917CD35F600EA6F9D /* Potluck.png in Resources */ = {isa = PBXBuildFile; fileRef = B3BCE98317CD35F600EA6F9D /* Potluck.png */; };
+		B3BCE98A17CD35F600EA6F9D /* Potluck@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B3BCE98417CD35F600EA6F9D /* Potluck@2x.png */; };
+		B3BCE98B17CD35F600EA6F9D /* PotluckAccount.png in Resources */ = {isa = PBXBuildFile; fileRef = B3BCE98517CD35F600EA6F9D /* PotluckAccount.png */; };
+		B3BCE98C17CD35F600EA6F9D /* PotluckAccount@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B3BCE98617CD35F600EA6F9D /* PotluckAccount@2x.png */; };
+		B3BCE98D17CD35F600EA6F9D /* PotluckNotify.png in Resources */ = {isa = PBXBuildFile; fileRef = B3BCE98717CD35F600EA6F9D /* PotluckNotify.png */; };
+		B3BCE98E17CD35F600EA6F9D /* PotluckNotify@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B3BCE98817CD35F600EA6F9D /* PotluckNotify@2x.png */; };
+		B3BCE99117CD360100EA6F9D /* PotluckAccount.m in Sources */ = {isa = PBXBuildFile; fileRef = B3BCE99017CD360100EA6F9D /* PotluckAccount.m */; };
 		F6155F9B173BFC270016C528 /* ZootoolAccount.m in Sources */ = {isa = PBXBuildFile; fileRef = F6155F9A173BFC270016C528 /* ZootoolAccount.m */; };
 		F6155FA2173BFD9A0016C528 /* Zootool.png in Resources */ = {isa = PBXBuildFile; fileRef = F6155F9C173BFD9A0016C528 /* Zootool.png */; };
 		F6155FA3173BFD9A0016C528 /* Zootool@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F6155F9D173BFD9A0016C528 /* Zootool@2x.png */; };
@@ -389,6 +396,14 @@
 		01F64A2A14C2318B00AAABD7 /* BeanstalkAccount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; lineEnding = 0; path = BeanstalkAccount.m; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.objc; };
 		01F7120514F9498000A32AB9 /* NSDate+TimeAgo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "NSDate+TimeAgo.h"; sourceTree = "<group>"; };
 		01F7120614F9498000A32AB9 /* NSDate+TimeAgo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "NSDate+TimeAgo.m"; sourceTree = "<group>"; };
+		B3BCE98317CD35F600EA6F9D /* Potluck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Potluck.png; sourceTree = "<group>"; };
+		B3BCE98417CD35F600EA6F9D /* Potluck@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Potluck@2x.png"; sourceTree = "<group>"; };
+		B3BCE98517CD35F600EA6F9D /* PotluckAccount.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PotluckAccount.png; sourceTree = "<group>"; };
+		B3BCE98617CD35F600EA6F9D /* PotluckAccount@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PotluckAccount@2x.png"; sourceTree = "<group>"; };
+		B3BCE98717CD35F600EA6F9D /* PotluckNotify.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PotluckNotify.png; sourceTree = "<group>"; };
+		B3BCE98817CD35F600EA6F9D /* PotluckNotify@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "PotluckNotify@2x.png"; sourceTree = "<group>"; };
+		B3BCE98F17CD360100EA6F9D /* PotluckAccount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PotluckAccount.h; sourceTree = "<group>"; };
+		B3BCE99017CD360100EA6F9D /* PotluckAccount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PotluckAccount.m; sourceTree = "<group>"; };
 		F6155F99173BFC270016C528 /* ZootoolAccount.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ZootoolAccount.h; sourceTree = "<group>"; };
 		F6155F9A173BFC270016C528 /* ZootoolAccount.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ZootoolAccount.m; sourceTree = "<group>"; };
 		F6155F9C173BFD9A0016C528 /* Zootool.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Zootool.png; sourceTree = "<group>"; };
@@ -423,6 +438,8 @@
 		0108CECC13BB1B080000ECE1 /* Accounts */ = {
 			isa = PBXGroup;
 			children = (
+				B3BCE98F17CD360100EA6F9D /* PotluckAccount.h */,
+				B3BCE99017CD360100EA6F9D /* PotluckAccount.m */,
 				012734BC15DFFB4E00512361 /* RSSAtomAccount.h */,
 				012734BD15DFFB4E00512361 /* RSSAtomAccount.m */,
 				0108CED113BB1EC00000ECE1 /* BasecampAccount.h */,
@@ -527,6 +544,12 @@
 		015D789E13C6733D00BCD7C4 /* Service Icons */ = {
 			isa = PBXGroup;
 			children = (
+				B3BCE98317CD35F600EA6F9D /* Potluck.png */,
+				B3BCE98417CD35F600EA6F9D /* Potluck@2x.png */,
+				B3BCE98517CD35F600EA6F9D /* PotluckAccount.png */,
+				B3BCE98617CD35F600EA6F9D /* PotluckAccount@2x.png */,
+				B3BCE98717CD35F600EA6F9D /* PotluckNotify.png */,
+				B3BCE98817CD35F600EA6F9D /* PotluckNotify@2x.png */,
 				013B1ACA15E8451D008E9ACB /* Basecamp.png */,
 				013B1ACB15E8451D008E9ACB /* Basecamp@2x.png */,
 				013B1ACC15E8451D008E9ACB /* BasecampAccount.png */,
@@ -945,6 +968,12 @@
 				F6155FA5173BFD9A0016C528 /* ZootoolAccount@2x.png in Resources */,
 				F6155FA6173BFD9A0016C528 /* ZootoolNotify.png in Resources */,
 				F6155FA7173BFD9A0016C528 /* ZootoolNotify@2x.png in Resources */,
+				B3BCE98917CD35F600EA6F9D /* Potluck.png in Resources */,
+				B3BCE98A17CD35F600EA6F9D /* Potluck@2x.png in Resources */,
+				B3BCE98B17CD35F600EA6F9D /* PotluckAccount.png in Resources */,
+				B3BCE98C17CD35F600EA6F9D /* PotluckAccount@2x.png in Resources */,
+				B3BCE98D17CD35F600EA6F9D /* PotluckNotify.png in Resources */,
+				B3BCE98E17CD35F600EA6F9D /* PotluckNotify@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1005,6 +1034,7 @@
 				013B1AA815E703F3008E9ACB /* NSDate+InternetDateTime.m in Sources */,
 				01A93AAE1652B36A00B96B79 /* NSString+EmailValidation.m in Sources */,
 				F6155F9B173BFC270016C528 /* ZootoolAccount.m in Sources */,
+				B3BCE99117CD360100EA6F9D /* PotluckAccount.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
